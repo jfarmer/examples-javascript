@@ -33,3 +33,29 @@ In JavaScript, we use [Math.random][mdn-math-random] to generate random numbers.
 Run [examples/random.js](examples/random.js) from the command line and read the code for an overview of common patterns.
 
 [mdn-math-random]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
+## Interactive Keyboard Input
+
+Run [examples/keyboardInput.js](examples/keyboardInput.js) from the command line and read the code to see examples of interactive keyboard input.
+
+We're using the [readline-sync module](npm-readline-sync).
+
+You'll need to run the following command inside the `examples-javascript` directory to install `readline-sync`:
+
+```console
+npm install
+```
+
+## Hidden Input
+
+Run [examples/password.js](examples/password.js) from the command line and read the code to see examples of how to hide user inputs.
+
+We're using the [readline-sync module](npm-readline-sync).
+
+You'll need to run the following command inside the `examples-javascript` directory to install `readline-sync`:
+
+```console
+npm install
+```
+
+[npm-readline-sync]: https://www.npmjs.com/package/readline-sync
