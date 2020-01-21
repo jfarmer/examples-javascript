@@ -30,9 +30,13 @@ It contains proper error handling and useful help messages. It's heavily comment
 
 In JavaScript, we use [Math.random][mdn-math-random] to generate random numbers.
 
-Run [examples/random.js](examples/random.js) from the command line and read the code for an overview of common patterns.
+Run [examples/random.js](examples/random.js) from the command line and read the code for an overview of common patterns involving random numbers.
 
 [mdn-math-random]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
+## Reading From Files
+
+Run [examples/readFile.js](examples/readFile.js) from the command line and read the code to see examples of how to read from a file.
 
 ## Interactive Keyboard Input
 
