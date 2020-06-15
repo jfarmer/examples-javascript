@@ -228,3 +228,16 @@ bh_unicode_properties.cache
 # Sublime-github package stores a github token in this file
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
+
+# R History files
+.Rhistory
+.Rapp.history
+
+# R Session Data files
+.RData
+
+# R User-specific files
+.Ruserdata
+
+# R Environment Variables
+.Renviron
