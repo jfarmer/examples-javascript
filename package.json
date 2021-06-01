@@ -4,6 +4,7 @@
   "description": "Examples of common JavaScript patterns",
   "main": "index.js",
   "dependencies": {
+    "handlebars": "^4.7.6",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {

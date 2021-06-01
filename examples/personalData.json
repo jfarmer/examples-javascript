@@ -1,0 +1,24 @@
+{
+  "fullName": "'See personalData.json'",
+
+  "favoriteMusicians": [
+    { "name": "Some musician" },
+    { "name": "Another musician" },
+    { "name": "A third musician?!" }
+  ],
+
+  "favoriteMovies": [
+    {
+      "title": "Coolsville, The Cool Movie",
+      "releaseYear": "1998"
+    },
+    {
+      "title": "Terminator 87: Ugh Time Travel",
+      "releaseYear": "2087"
+    },
+    {
+      "title": "Beep Beep I'm A Jeep",
+      "releaseYear": "2010"
+    }
+  ]
+}
