@@ -4,17 +4,17 @@
   "description": "Examples of common JavaScript patterns",
   "main": "index.js",
   "dependencies": {
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-standard": "^14.1.1",
-    "eslint-plugin-import": "^2.21.2",
+    "eslint": "^8.39.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1",
-    "jsdoc": "^3.6.4"
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-standard": "^4.1.0",
+    "jsdoc": "^4.0.2"
   },
   "scripts": {
     "docs": "npx jsdoc -c ./.jsdoc.conf.json",
